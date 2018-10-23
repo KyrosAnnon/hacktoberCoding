@@ -1,7 +1,7 @@
 const int BLINK_LED = 10;
 void setup() 
 {
-  pinMode(BLINK_LED, OUTPUT);
+  pinMode(BLINK_LED, OUTPUT); // led is output
 }
 
 void loop() 
